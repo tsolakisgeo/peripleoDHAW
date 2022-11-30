@@ -1,0 +1,8 @@
+"{@id}","{geometry.coordinates[0]}","{geometry.coordinates[1]}","{geometry.type}","{properties.title}","{type}","{$.@id=""https://w3id.org/new_parthenon_marbles""}","{$.type=""FeatureCollection""}","{$.@context=""https://w3id.org/locolligo/contexts/linkedplaces.jsonld""}","{$.indexing={""@type"":""Dataset"",""name"":""new parthenon marbles"",""description"":"""",""license"":""https://creativecommons.org/licenses/by/4.0/"",""identifier"":""https://w3id.org/new_parthenon_marbles"",""temporalCoverage"":""1066/2022"",""spatialCoverage"":{""@type"":""GeoShape"",""box"":""0.580101 0.00149 60.355 9.78667"",""geo"":{""@type"":""GeoShape"",""box"":""37.9684 0.127 55.6746 23.7285""}}}}"
+"https://w3id.org/new_parthenon_marbles/e4e081c8-5a42-40ce-baf2-286bd599ac3b","0.127","51.5194","Point","British Museum","Feature",,,,
+"https://w3id.org/new_parthenon_marbles/6e8c25f1-0983-47f2-8b34-d13a6f3a4dbd","2.3376","48.8606","Point","Musée du Louvre","Feature",,,,
+"https://w3id.org/new_parthenon_marbles/ca50ae15-3e3a-4eff-9db8-d487b0995446","11.5659","48.1465","Point","Glyptothek","Feature",,,,
+"https://w3id.org/new_parthenon_marbles/1e56d589-a09c-481b-bb13-a88181f3792a","12.4536","41.9065","Point","Vatican Museums","Feature",,,,
+"https://w3id.org/new_parthenon_marbles/181277dd-d744-4f43-842e-dfdcfa8a14d8","12.5747","55.6746","Point","National Museum","Feature",,,,
+"https://w3id.org/new_parthenon_marbles/af695650-ed33-42f2-86ac-f88a935bec8b","16.3618","48.2038","Point","Kunsthistorisches Museum","Feature",,,,
+"https://w3id.org/new_parthenon_marbles/9e08fb2b-6d73-48ed-9867-b548f9398235","23.7285","37.9684","Point","Acropolis Museum","Feature",,,,
