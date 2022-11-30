@@ -5,7 +5,7 @@
     {
       "name": "VisitPlus",
       "format": "LINKED_PLACES",
-      "src": "./data/geoJSON_Data_1669848483.lp.csv",
+      "src": "./data/Peripleo_Data_1669848599.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
